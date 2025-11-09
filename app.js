@@ -1,6 +1,6 @@
 // app.js
 const express = require('express');
-const app = express();
+const app = express();jbjbb/jlb/l
 const port = process.env.PORT || 3000;
 
 const html = `<!doctype html>
@@ -84,11 +84,11 @@ const html = `<!doctype html>
     line-height:1.02;
     text-shadow: 0 6px 30px rgba(124,58,237,0.18);
   }
-
+jlb
   .subtitle{
     margin:0 auto 1.4rem auto;
     color:var(--muted);
-    max-width:750px;
+    max-width:750px;ljbjllb
     font-size: clamp(1rem, 1.9vw, 1.125rem);
   }
 
